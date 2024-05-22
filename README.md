@@ -1,16 +1,13 @@
-## Hi there 👋
+## Bem vindo ao meu perfil 🖤
 
-<!--
-**ViniFTunes/ViniFTunes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Eu sou o Vinícius Ferreira Tunes
 
-Here are some ideas to get you started:
+-Sou um aluno da pltaforma [Alura] (https://www.alura.com.br)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-Esse perfil é um teste que estou fazendo a partir das aulas desse programa;
+
+-É possível que eu compartilhe algum projeto nesse espaço.
+
+## METAL4LIFE
+
+![](https://media.tenor.com/d1UdTn00JewAAAAM/metal-heavy-metal.gif)
